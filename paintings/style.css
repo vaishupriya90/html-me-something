@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+header{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(240, 63, 93);
+}
+#heading{
+    background-image: url("https://i.pinimg.com/236x/79/27/f9/7927f976b17065d627f94c0e125ac79c--happy-day-android.jpg");
+}
+#main{
+    font-family: fantasy;
+    font-size: x-large;
+    font-weight: 200;
+    
+}
+.side-heading{
+    font-weight: 600;
+    font-style: inherit;
+    text-decoration: underline;
+    color: rgb(240, 63, 93);
+    font-size: 40px;
+
+}
+.border {
+    margin: 70px;
+    border: 1px solid rgb(95, 45, 233);
+  }
+  
+  
+
+
